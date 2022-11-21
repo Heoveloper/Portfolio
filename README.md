@@ -1,2 +1,3 @@
 # Portfolio
-My portfolio domain
+Junhyeok's dev portfolio
+https://heoveloper.github.io/portfolio/

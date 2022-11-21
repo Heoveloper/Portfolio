@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+/* Playfair Display */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+/* Noto Sans Korean */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;400&family=Playfair+Display&display=swap');
+
+/* .wrapper {font-family: 'Noto Sans KR', sans-serif;} */
+h1, h2, h3, h4, h5, h6 {font-family: 'Playfair Display', serif;}
+
+.profile__name {font-family: 'Playfair Display', serif;}
+.profile__desc {font-family: 'Noto Sans KR', sans-serif;}
+.gnb {font-family: 'Playfair Display', serif;}
