@@ -1,13 +1,23 @@
 @charset "UTF-8";
 
-/* Playfair Display */
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 /* Noto Sans Korean */
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;400&family=Playfair+Display&display=swap');
+/* Noto Serif Korean */
+/* Playfair Display */
+/* font-family: 'Noto Sans KR', sans-serif; */
+/* font-family: 'Noto Serif KR', serif; */
+/* font-family: 'Playfair Display', serif; */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&family=Noto+Serif+KR:wght@500&family=Playfair+Display&display=swap');
 
-/* .wrapper {font-family: 'Noto Sans KR', sans-serif;} */
+/* common */
+.wrapper {font-family: 'Noto Serif KR', serif;}
 h1, h2, h3, h4, h5, h6 {font-family: 'Playfair Display', serif;}
 
+/* profile */
 .profile__name {font-family: 'Playfair Display', serif;}
 .profile__desc {font-family: 'Noto Sans KR', sans-serif;}
+/* gnb */
 .gnb {font-family: 'Playfair Display', serif;}
+/* project */
+.great__title {font-family: 'Noto Serif KR', serif;}
+/* education */
+.kh__title {font-family: 'Noto Serif KR', serif;}

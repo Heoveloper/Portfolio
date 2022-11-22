@@ -2,9 +2,8 @@
 
 :root {
     --profile-color: lightgray;
-    --article-color: white;
     --project-color: rgb(7, 7, 77);
-    --project-font-color: honeydew;
+    --project-great-color: #f1c40f;
     --color-lightgray: #e0e0e0;
     --color-gray: #979797;
     --color-red: rgb(219, 36, 36);
