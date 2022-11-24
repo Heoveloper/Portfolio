@@ -17,6 +17,8 @@ h1, h2, h3, h4, h5, h6 {font-family: 'Playfair Display', serif;}
 .profile__desc {font-family: 'Noto Sans KR', sans-serif;}
 /* gnb */
 .gnb {font-family: 'Playfair Display', serif;}
+/* about */
+.about__content .title {font-family: 'Noto Serif KR', serif;}
 /* project */
 .great__title {font-family: 'Noto Serif KR', serif;}
 /* education */
