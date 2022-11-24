@@ -122,7 +122,22 @@
 }
 
 /* skills */
-.section__skills .skills_icon {padding: 10px;}
+.icons {padding: 10px;}
+
+.icons i {
+    display: inline-flex;
+    justify-content: center;
+    align-items: flex-end;
+    width: 150px;
+    height: 150px;
+}
+
+.icons i:hover {filter: brightness(0.8);}
+
+.fa-html5 {color: #E65100;}
+.fa-css3-alt {color: #0277BD;}
+.fa-js {color: #FFD600;}
+.fa-java {color: #F44336;}
 
 /* project */
 .team-project {padding: 10px;}
